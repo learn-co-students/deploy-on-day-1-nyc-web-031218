@@ -2916,7 +2916,7 @@ input.hs-button.primary.large{
 }
 
 .top-page-title {
-  background: url(deploy-on-day-1-nyc-web-031218/img/background2-patricia.jpg) no-repeat top center;
+  /*background: url(deploy-on-day-1-nyc-web-031218/img/background2-patricia.jpg) no-repeat top center;*/
   background-size: 100% 100%;
   margin-bottom: 100px;
   text-align: center;
