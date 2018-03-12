@@ -2903,7 +2903,7 @@ input.hs-button.primary.large{
 
 
 .page-title, .top-page-title {
-  /*background: url(../img/background2-patricia.jpg) no-repeat top center;*/
+  /*background: url(/img/background2-patricia.jpg) no-repeat top center;*/
   margin-bottom: 0;
   padding: 0;
   height: 275px;
@@ -2916,7 +2916,7 @@ input.hs-button.primary.large{
 }
 
 .top-page-title {
-  background: url(../img/backgound2-patricia.jpg) no-repeat top center;
+  background: url(/img/backgound2-patricia.jpg) no-repeat top center;
   background-size: 100% 100%;
   margin-bottom: 100px;
   text-align: center;
