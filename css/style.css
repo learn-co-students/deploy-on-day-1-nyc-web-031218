@@ -3095,3 +3095,8 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
 .smooth-scroller {
     padding-top: 20px;
 }
+
+/*============Descriptions============*/
+.description {
+  text-align: center
+}
