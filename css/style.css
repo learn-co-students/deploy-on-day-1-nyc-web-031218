@@ -245,8 +245,7 @@ img {
 .header-left img { padding: 0 0 0 0 }
 
 .header-left h1 {
-    margin: 5px 0 0 0;
-}
+    margin: 5px 0 0 0;}
 
 .header-left h1 a {
     color: #555;
@@ -2903,7 +2902,7 @@ input.hs-button.primary.large{
 
 
 .page-title, .top-page-title {
-  /*background: url(../img/plaza_espana.jpg) no-repeat top center;*/
+  /*background: url(deploy-on-day-1-nyc-web-031218/img/background2-patricia.jpg) no-repeat top center;*/
   margin-bottom: 0;
   padding: 0;
   height: 275px;
@@ -2916,7 +2915,7 @@ input.hs-button.primary.large{
 }
 
 .top-page-title {
-  background: url(../img/j-collins-background.jpg) no-repeat top center;
+
   background-size: 100% 100%;
   margin-bottom: 100px;
   text-align: center;
@@ -3095,3 +3094,11 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
 .smooth-scroller {
     padding-top: 20px;
 }
+<<<<<<< HEAD
+
+/*============Descriptions============*/
+.description {
+  text-align: center
+}
+=======
+>>>>>>> a852e7e14c4421e7de392a6fe6737303a852b709
